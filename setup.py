@@ -14,6 +14,6 @@ setup(
     author="Camilo Rodriguez",
 
     packages=find_packages(),
-    package_dir={"":"diagnostic"}
+    package_dir={"":"diagnostic"},
     long_description=read('README.md'),
 )
