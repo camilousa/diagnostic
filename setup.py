@@ -13,7 +13,7 @@ setup(
 
     author="Camilo Rodriguez",
 
-    packages=find_packages(),
+    packages=["diagnostic"],
     package_dir={"":"diagnostic"},
     long_description=read('README.md'),
 )
